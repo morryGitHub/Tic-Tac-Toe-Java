@@ -20,16 +20,16 @@
 <pre><code>
   
 <p> 1. Clone the repository:
-   git clone https://github.com/yourusername/TicTacToe.git <p>
+   <a> git clone https://github.com/yourusername/TicTacToe.git <p>
 
 <p> 2. Navigate to the project directory:
-   cd TicTacToe </p>
+   <code>cd TicTacToe</code> </p>
 
 <p> 3. Compile the Java file:
-   javac TicTacToe.java </p>
+   <a> javac TicTacToe.java </p>
 
 <p> 4. Run the game:
-   java TicTacToe</code></pre> </p>
+   <a> java TicTacToe</code></pre> </p>
 
 <h2>How to Play</h2>
 <ul>
