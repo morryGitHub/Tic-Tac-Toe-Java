@@ -17,20 +17,14 @@
 </ul>
 
 <h2>Getting Started</h2>
-<pre><code>
-  
 <p> 1. Clone the repository:
-   <a> git clone https://github.com/yourusername/TicTacToe.git <p>
-
+   <code> git clone https://github.com/yourusername/TicTacToe.git</code></p>
 <p> 2. Navigate to the project directory:
-   <code>cd TicTacToe</code> </p>
-
+   <code>cd TicTacToe</code></p>
 <p> 3. Compile the Java file:
-   <a> javac TicTacToe.java </p>
-
+   <code> javac TicTacToe.java </code></p>
 <p> 4. Run the game:
-   <a> java TicTacToe</code></pre> </p>
-
+   <code> java TicTacToe</code></p>
 <h2>How to Play</h2>
 <ul>
     <li>Click on an empty cell to place your mark (X or O).</li>
@@ -47,5 +41,7 @@
     <li><code>processMouseEvent(MouseEvent mouseEvent)</code>: Handles player input.</li>
     <li><code>checkStatus()</code>: Evaluates the game state to determine if there's a winner or a draw.</li>
 </ul>
+
+
 </body>
 </html>
